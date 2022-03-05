@@ -2,3 +2,5 @@
 %project=boozy
 
 create-drinks 2022-03-05T07:25:44Z Jason Ganub <jasonganub@gmail.com> # Create the initial drinks table
+create-stores 2022-03-05T07:48:58Z Jason Ganub <jasonganub@gmail.com> # Create stores initial table
+create-inventory 2022-03-05T07:52:42Z Jason Ganub <jasonganub@gmail.com> # Create inventory initial table

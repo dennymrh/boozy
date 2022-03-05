@@ -3,7 +3,7 @@
 BEGIN;
 
 CREATE TABLE drinks (
-    drink_id serial PRIMARY KEY,
+    drink_id bigserial PRIMARY KEY,
     name varchar ( 255) unique not null,
     type varchar (255) unique not null,
     sub_type varchar (255) unique,

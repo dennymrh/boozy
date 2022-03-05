@@ -2,6 +2,6 @@
 
 BEGIN;
 
--- XXX Add DDLs here.
+DROP TABLE if exists drinks;
 
 COMMIT;
